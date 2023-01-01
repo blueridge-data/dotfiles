@@ -1,8 +1,0 @@
-# local config for MAC OS X
-alias csdir='cd ~/Documents/Drexel/code'
-alias tux='ssh rw843@tux.cs.drexel.edu'
-
-# modify file colors
-export LSCOLORS="Exfxcxdxbxegedabagacad"
-
-
